@@ -1,7 +1,7 @@
 body {
-    background: url('./2148933766.jpg');
-    background-position: bottom;
-    background-attachment: fixed;
+    background:black;
+    /* background-position: bottom;
+    background-attachment: fixed; */
     font-family: "Comfortaa", sans-serif;
     color: white;
 }
